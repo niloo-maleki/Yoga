@@ -1,0 +1,34 @@
+
+.swiper-button-prev, .swiper-button-next{
+    width: 80px !important;
+    height: 80px !important;
+    background: #f4a111;
+    opacity: 1;
+    font-size: 20px !important;
+    color: #fff !important;
+    top: 45% !important;
+    border-radius: 40px !important ;
+}
+.swiper-button-next{
+    right: 9% !important;  
+}
+
+.swiper-button-prev {
+    left: 9% !important; 
+}
+
+.swiper-button-next::after {
+    font-family: "FontAwesome" !important;
+    content: '\f061' !important;
+    font-size: 20px !important;
+
+
+}
+.swiper-button-prev::after {
+    font-family: "FontAwesome" !important;
+    content: '\f060' !important;
+    font-size: 20px !important;
+
+
+
+}

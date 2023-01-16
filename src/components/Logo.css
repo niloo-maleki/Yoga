@@ -1,0 +1,18 @@
+.logo{
+    border-radius: 0px 0px 150px 50px;
+    background: white;
+    padding: 68px;
+    width: 242px;
+    height: 263px;
+    /* align-content: flex-start; */
+    /* margin: -113px -198px; */
+    transform: rotate(36deg);
+    position: relative;
+    bottom: 107px;
+    right: 25px;
+}
+.img-logo{
+    margin: 40px 0px;
+    -ms-transform: scaleY(1.5);
+    transform: rotate(-36deg);
+}
